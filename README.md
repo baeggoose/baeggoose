@@ -1,15 +1,16 @@
 <h1 align="center">Hi , I'm baeggoose <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
+<br>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Web+Developer;&center=true&width=500&height=50"></a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">              
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">           
 
 <h4 align="center">사람들의 ‘일상’을 이롭게 하는 ‘개발’을 하고 싶은<br>
 보람있는 삶을 찾아 재미와 생산성 둘다 잡는 프론트엔드 개발에 빠진 백승지 입니다 :)</h4>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">              
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
 
 ## 🛠️ My Skills
 
@@ -37,7 +38,7 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
   <img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=Adobe&logoColor=white">
 </p>
-<br/>
+<br>
 
 ## 🙋‍♀️ Let's Connect
 <p align="center">
